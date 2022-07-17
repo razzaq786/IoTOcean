@@ -4,7 +4,7 @@
 3-Flask Cors    --Install if necessory
 4-Numpy library
 5-scikit-learn
-
+Project --> Setting --> Open pip -> Search above libraries (2,4 and 5) and install
 --------Data-----------
 Datasets and trained models are already given in Data folder and in TrainedModels folder
 
